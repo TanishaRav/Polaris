@@ -18,7 +18,7 @@ Polaris was created to fill this gap by providing a **centralized, data-driven j
 
 ## 🚧 Current Status
 
-This repository contains the **backend implementation for Phase 1 (v1.0.0)** of Polaris.  
+This repository contains the **backend implementation for Phase 1 (v0.0.0)** of Polaris.  
 The current focus is on **core data modeling, API data contracts, and foundational security**.
 
 ---
