@@ -23,7 +23,7 @@ The current focus is on **core data modeling, API data contracts, and foundation
 
 ---
 
-## 🧱 Phase 1 – v1.0.0  
+## 🧱 Phase 1 – v0.0.0  
 ### Database Models & DTO Foundation
 
 ### ✅ Implemented Features
